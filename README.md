@@ -1,0 +1,2 @@
+# DSSE_Individual_Portfolio-
+Individual_Portfolio _Smart_Environments
