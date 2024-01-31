@@ -1,6 +1,6 @@
 # Individual_Portfolio _Smart_Environments
 - **The background:**\
- This part is in 
+ This part is in 02_01_Background.ipynb.
 - **Methodology and data source used**
   
 - **Details about the implementation**
