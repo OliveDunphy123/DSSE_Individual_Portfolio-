@@ -1,6 +1,6 @@
 # Individual_Portfolio _Smart_Environments
 - **The background**\
- This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/02_01_Background.ipynb
+ This part is in 
 - **Methodology and data source used**\
   For objective 1, we used administrative boundaries, traffic datasets, industrial datasets which have different sectors and emissions, air pollution emissions.\
   For objective 2, we used traffic performance data which includes number of transactions and vehicles from National Toll Collection System. And emission data which includes emission of road transport, such as NOX, PM2.5 and CH4.\
