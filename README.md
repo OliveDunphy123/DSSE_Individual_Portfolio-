@@ -24,6 +24,6 @@
   
 - **Results**
   
-- **Conclusions both on the results**
+- **Conclusions on the results**
 - **Conclusions on the accomplishment of the goal**\
   almost every method available on an individual shapely geometry has its equivalent method on a GeoDataFrame
