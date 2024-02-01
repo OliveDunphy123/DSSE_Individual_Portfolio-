@@ -1,10 +1,17 @@
 # Individual_Portfolio _Smart_Environments
 - **The background:**\
  This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/02_01_Background.ipynb
-- **Methodology and data source used**
+- **Methodology and data source used**\
+  For objective 1, we used administrative boundaries, traffic datasets, industrial datasets which have different sectors and emissions, air pollution emissions.\
+  For objective 2, we used traffic performance data which includes number of transactions and vehicles from National Toll Collection System. And emission data which includes emission of road transport, such as NOX, PM2.5 and CH4.\
+  For objective 3, we used aie pollution data more specifically is annual concentration of PM 2.5, and data on rate of death caused by respiratory diseases.\
+  The more detailed information about data source is in the link https://github.com/hudsonpassos85/DSSE/raw/main/Report%20and%20Presentation/Data%20Availability.xlsx. Including the time frame, spatial distribution and data type.\
+  However, for objective 1 I participated, The workflow diagram is as follows：\
   ![methods](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure01.jpg?raw=true)
+  ![data availablity](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure02.jpg?raw=true)\
+
   
-  ![data availablity](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure02.jpg?raw=true)
+  
 - **Details about the implementation**
   
 - **Results**
