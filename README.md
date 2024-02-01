@@ -16,7 +16,7 @@ This part could be seen in https://github.com/OliveDunphy123/DSSE_Individual_Por
   4. Integrate processed provinces, traffic, industrial and NOx emission data into one final dataframe.
   5. Applying the most polular feature importance analysis machine learning model which is XGBoost to analysis the final dataframe.
      
-  The vivid workflow diagram and datasets used in objective 1 are as follows, but detailed methodology is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/Process/02_02_Details%20about%20the%20thinking%20process%20and%20problem%20solving%20in%20objective%201.ipynb\
+  The vivid workflow diagram and datasets used in objective 1 are as follows, but detailed methodology is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/8fc06aa123893a1c6a7f3e64f680a50034bf7760/Process/02_02_Details%20about%20the%20thinking%20process%20and%20problem%20solving%20in%20objective%201.ipynb\
   ![methods](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure01.jpg?raw=true)
   ![data availablity](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure02.jpg?raw=true)
 
