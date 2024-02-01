@@ -12,7 +12,7 @@
   2. Indentify data issues and fix it: drop the NULL and unreasonable values.
   3. Modify the data format and filter data we want to use, like only select NOx emission in air pollution dataset without selecting CH4 or PM2.5 emissions.
   4. Integrate processed provinces, traffic, industrial and NOx emission data into one final dataframe.
-  5. Applying the most polular feature importance analysis machine learning model which is XGBoost to analysis the final dataframe.
+  5. Applying the most polular feature importance analysis machine learning model which is XGBoost to analysis the final dataframe.\
   The vivid workflow diagram and datasets used in objective 1 are as follows, but detailed methodology is in (02_02_Details about the thinking process and problem solving in objective 1)\
   ![methods](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure01.jpg?raw=true)
   ![data availablity](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure02.jpg?raw=true)\
