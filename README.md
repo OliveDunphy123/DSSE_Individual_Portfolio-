@@ -23,7 +23,7 @@ This part could be seen in https://github.com/OliveDunphy123/DSSE_Individual_Por
   
   
 - **Details about the implementation**\
-  This part could be found in Process/02_02_Details about the thinking process and problem solving in objective 1.ipynb
+  This part could be found in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/8fc06aa123893a1c6a7f3e64f680a50034bf7760/Process/02_02_Details%20about%20the%20thinking%20process%20and%20problem%20solving%20in%20objective%201.ipynb
 - **Results**
   This part and the next two parts are in 
 - **Conclusions on the results**
