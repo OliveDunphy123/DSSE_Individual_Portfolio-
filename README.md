@@ -1,5 +1,5 @@
 # Individual_Portfolio _Smart_Environments
-- **The background:**\
+- **The background**\
  This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/02_01_Background.ipynb
 - **Methodology and data source used**\
   For objective 1, we used administrative boundaries, traffic datasets, industrial datasets which have different sectors and emissions, air pollution emissions.\
