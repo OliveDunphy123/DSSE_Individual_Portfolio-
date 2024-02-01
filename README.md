@@ -16,7 +16,7 @@
      
   The vivid workflow diagram and datasets used in objective 1 are as follows, but detailed methodology is in (02_02_Details about the thinking process and problem solving in objective 1)\
   ![methods](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure01.jpg?raw=true)
-  ![data availablity](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure02.jpg?raw=true)\
+  ![data availablity](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure02.jpg?raw=true)
 
   
   
@@ -25,5 +25,5 @@
 - **Results**
   
 - **Conclusions both on the results**
-- **Conclusions on the accomplishment of the goal**
+- **Conclusions on the accomplishment of the goal**\
   almost every method available on an individual shapely geometry has its equivalent method on a GeoDataFrame
