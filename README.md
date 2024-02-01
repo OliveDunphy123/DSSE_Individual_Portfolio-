@@ -6,7 +6,7 @@
   For objective 2, we used traffic performance data which includes number of transactions and vehicles from National Toll Collection System. And emission data which includes emission of road transport, such as NOX, PM2.5 and CH4.\
   For objective 3, we used aie pollution data more specifically is annual concentration of PM 2.5, and data on rate of death caused by respiratory diseases.\
   The more detailed information about data source is in the link https://github.com/hudsonpassos85/DSSE/raw/main/Report%20and%20Presentation/Data%20Availability.xlsx. Including the time frame, spatial distribution and data type.\
-  However, for objective 1 I participated, The workflow diagram is as follows：\
+  However, for objective 1 I participated, In  short the methodology is extract the vales of traffic, industrial and emission of NOx in respectively province ,after geting the information of traffic, industrial and emissions, use feature importance analysis to find the contributions of these sectors on emissions. The workflow diagram and datasets used in objective 1 are as follows：\
   ![methods](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure01.jpg?raw=true)
   ![data availablity](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure02.jpg?raw=true)\
 
