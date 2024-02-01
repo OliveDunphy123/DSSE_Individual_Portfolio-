@@ -14,7 +14,7 @@ This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blo
   2. Indentify data issues and fix it: drop the NULL and unreasonable values.
   3. Modify the data format and filter data we want to use, like only select NOx emission in air pollution dataset without selecting CH4 or PM2.5 emissions.
   4. Integrate processed provinces, traffic, industrial and NOx emission data into one final dataframe.
-  5. Applying the most polular feature importance analysis machine learning model which is XGBoost to analysis the final dataframe.\
+  5. Applying the most polular feature importance analysis machine learning model which is XGBoost to analysis the final dataframe.
      
   The vivid workflow diagram and datasets used in objective 1 are as follows, but detailed methodology is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/Process/02_02_Details%20about%20the%20thinking%20process%20and%20problem%20solving%20in%20objective%201.ipynb\
   ![methods](https://github.com/hudsonpassos85/DSSE/blob/main/images/figure01.jpg?raw=true)
@@ -29,3 +29,5 @@ This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blo
 - **Conclusions on the results**
 - **Conclusions on the accomplishment of the goal**\
   almost every method available on an individual shapely geometry has its equivalent method on a GeoDataFrame
+- **Reflection**\
+   This part is in 
