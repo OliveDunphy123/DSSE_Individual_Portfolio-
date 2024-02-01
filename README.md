@@ -1,6 +1,6 @@
 # Individual_Portfolio _Smart_Environments
--**Introduction**\
-This part is in 
+- **Introduction**\
+This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/Introduction/01_Introduction.ipynb
 - **The background**\
  This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/Introduction/01_Introduction.ipynb
 - **Methodology and data source used**\
