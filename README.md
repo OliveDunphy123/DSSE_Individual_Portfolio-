@@ -27,7 +27,6 @@ This part could be seen in https://github.com/OliveDunphy123/DSSE_Individual_Por
 - **Results**
   This part and the next two parts are in 
 - **Conclusions on the results**
-- **Conclusions on the accomplishment of the goal**\
-  almost every method available on an individual shapely geometry has its equivalent method on a GeoDataFrame
+- **Conclusions on the accomplishment of the goal**
 - **Reflection**\
    This part is in 
