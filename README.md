@@ -29,4 +29,4 @@ This part could be seen in https://github.com/OliveDunphy123/DSSE_Individual_Por
 - **Conclusions on the results**
 - **Conclusions on the accomplishment of the goal**
 - **Reflection**\
-   This part is in 
+   This part is in https://github.com/OliveDunphy123/DSSE_Individual_Portfolio-/blob/main/Results/03_Reflection.ipynb
